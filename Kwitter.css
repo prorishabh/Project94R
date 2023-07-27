@@ -1,0 +1,79 @@
+body
+{
+    background-size: cover;
+}
+
+#login
+{
+    margin-top: 15%;
+    box-shadow: 6px 6px 6px red;
+    background-color: white;
+    width: 30%;
+}
+
+h2
+{
+    color: black;
+    font-weight: bold;
+}
+
+#user_name:hover
+{
+    width: 40%;
+    border-color: purple;
+    font-size: large;
+}
+
+.login_button
+{
+    width: 40%;
+}
+
+h3
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.logout_button
+{
+    margin-top: 2%;
+    margin-left: 2%;
+    font-size: large;
+}
+
+.header
+{
+    color: darkorange;
+}
+
+#header
+{
+    color: greenyellow;
+}
+
+.header
+{
+    color: darkorange;
+}
+center
+{
+    margin-top: 10%;
+}
+
+h3{
+    color: greenyellow;
+}
+
+#room_name
+{
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px yellow;
+}
+
+#output
+{
+	padding: 10px;
+    width:80%;
+    background: rgba(255,255,255,0.8);
+    border-radius: 15px;
+}
